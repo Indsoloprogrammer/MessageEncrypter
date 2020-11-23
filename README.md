@@ -13,14 +13,7 @@
 ## How to use
  1. Download the repo using git or just by downloading the zip file and extract
  2. Open terminal and cd into the directory and type `python3 main.py` or `python main.py` 
- 3. Enjoy encrypting and decrypting message and store it secretly!!
-### Video tutorial:
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
+ 3. Enjoy encrypting and decrypting message and store it secretly!
 ## How to get the key
  There is already a key available in `./key.txt` which you can enter in the login screen 
 ### TIP:
