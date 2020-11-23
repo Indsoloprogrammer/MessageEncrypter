@@ -1,7 +1,7 @@
 ## Requirements
 - Python 3.4 +
 - tkinter 
-- pip \
+- pip 
 ### Tip:
  If you are on Python2 change `tkinter` to `Tkinter` in `./converter.py` line no. 1
 
